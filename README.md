@@ -11,8 +11,6 @@ Join me on my journey through the Cloud Resume Challenge as I transition from cl
 ## Getting Started
 The original Cloud Resume Challenge provides detailed instructions for Amazon AWS, Microsoft Azure, or Google Cloud. You can find the guide on the official Cloud Resume Challenge website.
 
-For my journey, I will focus on Microsoft Azure and plan to revisit the challenge for Amazon AWS later.
-
 ### My Education and Certifications
 Education | Certification
 
@@ -21,14 +19,21 @@ I am pursuing a Bachelor of Science in Cloud Computing, which covers cloud archi
 - CompTIA A+ | Passed
 - CompTIA Network+ | Passed
 - CompTIA Security+ | Passed
-- LPI Linux Essentials | Passed
 - CompTIA Cloud+ | Passed
+- LPI Linux Essentials | Passed
 - Microsoft Azure Fundamentals AZ-900 | Passed
 - Microsoft Azure Developer Associate AZ-204 | Studying
+- Microsoft Azure Administrator AZ-104 | Pending
+- Microsoft Azure Data Fundamentals DP-900 | Pending
+- Microsoft Azure Data Engineer Associate	DP-203 | Pending
+- Microsoft Azure DevOps Solutions AZ-400 | Pending
+- Microsoft Windows Server Hybrid Administrator Associate	AZ-800 + AZ-801 | Pending
 - Amazon AWS Cloud Practitioner | Passed
-- Amazon AWS Cloud Architecture | Pending
+
 
 ## The Challenge Steps
+
+### Planning 
 
 ### HTML
 Your resume needs to be written in HTML and styled with CSS. Not a Word doc or a PDF. Here is an example of what I mean.
