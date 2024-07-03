@@ -17,11 +17,11 @@ namespace Company.Function
 {
     public static class GetResumeCounter
     {
-        [FunctionName("GetResumeCounter")]
+        [FunctionName("GetResumeCounter9")]
         public static HttpResponseMessage Run(
             [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req,
-            [CosmosDB(databaseName:"CloudResume", containerName: "Counter", Connection = "CosmosDbConnectionSetting", Id = "1", PartitionKey = "1")] Counter counter,
-            [CosmosDB(databaseName:"CloudResume", containerName: "Counter", Connection = "CosmosDbConnectionSetting", Id = "1", PartitionKey = "1")] out Counter updatedCounter,
+            [CosmosDB(databaseName:"cloudresume", containerName: "Counter", Connection = "CosmosDbConnectionSetting", Id = "1", PartitionKey = "1")] Counter counter,
+            [CosmosDB(databaseName:"cloudresume", containerName: "Counter", Connection = "CosmosDbConnectionSetting", Id = "1", PartitionKey = "1")] out Counter updatedCounter,
             ILogger log)
         {
             log.LogInformation("C# HTTP trigger function processed a request."); 
